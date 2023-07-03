@@ -1,7 +1,5 @@
 import React, { useEffect, useState } from "react";
-import CreateAcct from "./CreateAcct.jsx";
-import RecentViews from "./RecentView.jsx";
-import TodaySpecial from "./TodaySpecial.jsx";
+
 
 
 const Button = () => {
